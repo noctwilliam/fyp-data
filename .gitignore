@@ -1,2 +1,5 @@
 *.txt
 cleaned_data.csv
+/__pycache__/
+decision_tree.png
+decision_tree_model.pkl
