@@ -4,7 +4,6 @@ from enum import Enum
 import joblib
 import numpy as np
 import pandas as pd
-
 class Symptoms(BaseModel):
 	cough: int
 	muscle_aches: int
