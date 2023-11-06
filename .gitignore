@@ -1,7 +1,10 @@
 *.txt
+*.pkl
+*.joblib
 cleaned_data.csv
 /__pycache__/
 decision_tree.png
 decision_tree_model.pkl
 /flu_resources/
 /.ipynb_checkpoints/
+/FastAPI/
