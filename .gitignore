@@ -1,4 +1,3 @@
-*.txt
 *.pkl
 *.joblib
 cleaned_data.csv
